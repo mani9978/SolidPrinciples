@@ -1,1 +1,15 @@
 # SolidPrinciples
+
+This is a simple console application which is Solid Compliant with simple Console Read and Write operations.
+
+﻿S -> Single responsibility
+	A class should have only one responsibility and only one reason to change
+O -> Open Closed Principle
+	A class or a method should be open for extension but closed for modification
+L -> Liskov Substitution principle
+	Cslasses derived from the same parent should be interchangeable
+I -> Interface Segregation principle
+	Create class specific interfaces instead of one bulk interface
+D -> Depenedency Inversion Principle
+	High level class should not depend on low classes. Should be loosely coupled
+	achieved by Inversion of control containers like Unity that manages creation of objects and maintaing their lifetimes
