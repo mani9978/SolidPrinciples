@@ -16,4 +16,4 @@ I -> Interface Segregation principle
 
 D -> Dependency Inversion Principle
 *	High-level classes should not depend on low-level classes. It should be loosely coupled
-*	achieved by the Inversion of control containers like Unity that manage the creation of objects and maintain their *lifetimes
+*	Achieved by the Inversion of control containers like Unity that manage the creation of objects and maintain their lifetimes
