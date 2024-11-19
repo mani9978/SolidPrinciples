@@ -2,8 +2,8 @@
 
 This simple console application is Solid Compliant with simple Console Read and Write operations.
 
-﻿S -> Single Responsibility
-	A class should have only one responsibility and only one reason to change
+﻿*S -> Single Responsibility
+*	A class should have only one responsibility and only one reason to change
 O -> Open Closed Principle
 	A class or a method should be open for extension but closed for modification
 L -> Liskov Substitution principle
